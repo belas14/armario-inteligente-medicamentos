@@ -7,7 +7,7 @@ Projeto desenvolvido para a disciplina de Sistemas Embarcados.
 - Isabela Silva
 - Júlia Lourenço
 - Livia Amaral
-- 
+  
 ## Objetivo
 
 Desenvolver um sistema inteligente capaz de lembrar o usuário do horário correto dos medicamentos utilizando Arduino, Bluetooth, LEDs, buzzer e botão de confirmação.
