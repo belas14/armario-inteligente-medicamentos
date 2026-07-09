@@ -30,3 +30,7 @@ Desenvolver um sistema inteligente capaz de lembrar o usuário do horário corre
 - Sistema de pontuação
 - Filtro de média móvel
 - Rotina de teste
+
+## Projeto no tinkercad
+
+https://www.tinkercad.com/things/gwntiIi8av3-smartmed/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=023CiyjHHpdiKYtq4W5_oiTifjtHws9xtj8Gp_VjMnk
